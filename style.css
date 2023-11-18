@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.bodies{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    width:100%;
+    background: linear-gradient(45deg,#1d0000,#20205b);
+}
+
+.calendar{
+    height:300px;
+    width:400px;
+    border:white solid 2px;
+}
