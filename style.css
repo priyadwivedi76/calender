@@ -69,3 +69,22 @@
     top:100px;
     text-align: center;
 }
+
+@media(max-width:650px){
+    .calendar{
+    height:300px;
+    width:300px;
+    }
+    .first{
+        width:170px;
+        height:300px;
+        border-radius: 5px;
+        background-color: aliceblue;
+        border-right:white solid 1px;  
+    }
+    .second{
+        width:140px;
+        border-radius: 5px;
+        border-right:white solid 1px; 
+    }
+}
